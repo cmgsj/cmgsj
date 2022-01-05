@@ -4,17 +4,17 @@ Hi, my name is Carlos Miguel Garcia, I am a Computer Science student, class of 2
 
 I am interested in full-stack web development using the MERN stack.
 
+## Projects:
+- Classic MineSweeper Game: https://github.com/mike9107/minesweeper
+
 ## Skills:
 - Proficient in Java, Python, JavaScript, HTML, and CSS.
-- Proficient with React, Redux, Router, TypeScript.
-- Familier with NodeJS, ExpressJS and MongoDB.
+- Experienced with React, Redux, Router, TypeScript.
+- Familiar with NodeJS, ExpressJS and MongoDB.
 
-## Tools:
+## Technology/Tools:
 - Visual Studio Code.
-- PyCharm, WebStorm and IntellijIDEA.
+- PyCharm, WebStorm and IntelliJ IDEA.
 - Postman.
 - Firebase.
 - MongoDB ATLAS.
-
-## Projects:
-- Classic MineSweeper Game: https://github.com/mike9107/minesweeper
