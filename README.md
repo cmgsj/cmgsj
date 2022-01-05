@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**mike9107/mike9107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Carlos Miguel Garcia, I am a Computer Science student, class of 2023, at Florida International University.
 
-Here are some ideas to get you started:
+I am interested in full-stack web development using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+-Proficient in Java, Python, JavaScript, HTML, and CSS.
+
+-Knowledge of React, Redux, Router, TypeScript.
+
+-Knowledge of NodeJS, ExpressJS and MongoDB.
+
+### Tools:
+-Visual Studio Code
+
+-PyCharm, WebStorm and IntellijIDEA
+
+-Postman
+
+-Firebase
+
+-MongoDB ATLAS
