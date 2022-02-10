@@ -6,6 +6,7 @@ I am interested in full-stack web development using the MERN stack.
 
 ## Projects:
 - Classic MineSweeper Game: https://github.com/mike9107/minesweeper
+- Note-Taking App: https://github.com/mike9107/notes-express
 
 ## Skills:
 - Proficient in Java, Python, JavaScript, HTML, and CSS.
