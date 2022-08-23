@@ -7,7 +7,4 @@ I am interested in backend web development.
 - <a href="https://github.com/mike9107/notes-express">Note-Taking App</a> 
 - <a href="https://github.com/mike9107/minesweeper">Classic MineSweeper Game</a> 
 ## Programming Languages: 
-- Python, Java, JavaScript, TypeScript, HTML, CSS.
-## Libraries/Frameworks:
-- React, React-Native, Router, Redux, Redux Toolkit, NextJS, Remix, Formik, BootStrap.
-- MongoDB, NodeJS, Express, Mongoose, Multer, Nodemailer, Bcrypt.
+- Python, Go, Java, JavaScript, TypeScript, HTML, CSS.
