@@ -7,4 +7,4 @@ I am interested in backend web development, cloud computing, and systems program
 - <a href="https://github.com/mike9107/notes-express">Note-Taking App</a> 
 - <a href="https://github.com/mike9107/minesweeper">Classic MineSweeper Game</a> 
 ## Programming Languages: 
-- Python, Go, Java, JavaScript, TypeScript, HTML, CSS.
+- Python, Go, Java, TypeScript, HTML, CSS.
