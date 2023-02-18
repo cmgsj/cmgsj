@@ -1,2 +1,2 @@
-## Information
-Hi, I am a Computer Science student, class of 2023, at Florida International University.
+# Information
+Hi, I am a Computer Science student at Florida International University, class fo 2023.
